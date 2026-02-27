@@ -1,0 +1,21 @@
+# Smart Resume Screening System — Python Dependencies
+# Install all dependencies with:  pip install -r requirements.txt
+
+# ── Web Framework ──────────────────────────────────────────────────────────
+streamlit>=1.32.0           # Interactive web app framework
+
+# ── PDF Parsing ────────────────────────────────────────────────────────────
+PyMuPDF>=1.23.0             # Fast PDF text extraction (imported as 'fitz')
+
+# ── NLP & Text Processing ─────────────────────────────────────────────────
+nltk>=3.8.1                 # Natural Language Toolkit (tokenization, stopwords)
+
+# ── Machine Learning ───────────────────────────────────────────────────────
+scikit-learn>=1.4.0         # TF-IDF Vectorizer & Cosine Similarity
+
+# ── Data Handling ──────────────────────────────────────────────────────────
+pandas>=2.1.0               # DataFrame operations and results display
+numpy>=1.26.0               # Numerical computations
+
+# ── Visualization ──────────────────────────────────────────────────────────
+matplotlib>=3.8.0           # Bar chart generation
