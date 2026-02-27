@@ -514,7 +514,7 @@ else:
     colA, colB, colC = st.columns(3)
     with colA:
         st.markdown("""
-        <div style="text-align:center; padding:1.5rem; background:#f8fafc; border-radius:14px; border:1px solid #e2e8f0;">
+        <div style="text-align:center; padding:1.5rem; background:#f8fafc; color:#1e293b; border-radius:14px; border:1px solid #e2e8f0;">
             <div style="font-size:2.5rem">📝</div>
             <b>Step 1</b><br>Enter the Job Description
         </div>""", unsafe_allow_html=True)
@@ -530,3 +530,4 @@ else:
             <div style="font-size:2.5rem">🚀</div>
             <b>Step 3</b><br>Click Analyze Resumes
         </div>""", unsafe_allow_html=True)
+
