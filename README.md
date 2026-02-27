@@ -150,9 +150,11 @@ Raw Text (Resume / Job Description)
 - **Matplotlib** — Visualization
 
 ---
-
+AUTHOR - JANANI J 
+VIT UNIVERSITY, VELLORE
 ## 👨‍🎓 About
 
 **Smart Resume Screening System** — Final Year Project  
 Built to demonstrate practical applications of Natural Language Processing and
 Information Retrieval techniques in Human Resources automation.
+
